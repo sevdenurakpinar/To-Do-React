@@ -1,0 +1,26 @@
+/* App.css */
+body {
+  background: linear-gradient(90deg, #ff69b4, #ffd700); /* Pembe'den Sarı'ya lineer geçiş */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+}
+
+h1 {
+  color: #ffffff;
+}
+
+.formTodo {
+  width: 100%;
+  background-color: #ececec; /* Açık gri renk */
+  padding: 10px;
+}
+
+.formTodo:hover {
+  background-color: #dcdcdc; /* Hover olduğunda daha koyu gri renk */
+}
+
+/* Diğer stilleriniz buraya eklenebilir */
+
